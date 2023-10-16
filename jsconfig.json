@@ -1,4 +1,4 @@
 {
   "compilerOptions": { "target": "ES6" },
-  "include": ["*.js", "**/*.js"]
+  "include": ["./src/*.js", "./src/**/*.js"]
 }
